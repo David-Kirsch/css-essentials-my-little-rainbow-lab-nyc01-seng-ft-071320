@@ -11,7 +11,7 @@ div {
 }
 
 #red {
-  background: red;
+  border-top-color: red;
 }
  #orange {
    background: orange;
